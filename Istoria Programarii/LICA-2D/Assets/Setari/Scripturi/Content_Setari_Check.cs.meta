@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 71d799d456b789447935397ae4650ac5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - asta: {instanceID: 0}
+  - nofull: {fileID: 21300000, guid: c8860551d4cea5b4286877212ca43574, type: 3}
+  - full: {fileID: 21300000, guid: bb4b6a7a347e3e348a9aab9848058a72, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
